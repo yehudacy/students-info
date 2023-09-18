@@ -1,0 +1,34 @@
+.row {
+    display: flex;
+    flex-direction: row;
+}
+
+.first-name {
+    width: 10rem;
+}
+
+.last-name {
+    width: 10rem;
+}
+
+.age {
+    width: 5rem;
+}
+
+.hobby {
+    width: 15rem;
+}
+
+.phone-number {
+    width: 8rem;
+}
+
+.city {
+    width: 9rem;
+}
+
+.cell {
+    /* text-align: center; */
+    padding: 1rem;
+    border: 1px solid black;
+}
