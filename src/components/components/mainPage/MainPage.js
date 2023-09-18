@@ -28,6 +28,7 @@ export function MainPage({ message }) {
     };
     getData();
   }, []);
+  console.log(111);
 
   const filterAgeArr = filterAge.split(" ");
 
